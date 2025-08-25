@@ -25,7 +25,7 @@
 
 **Languages:** Python, Java, TypeScript, PL/SQL  
 **Frameworks & Libraries:** TensorFlow, PyTorch, Scikit-learn, LangChain, FastAPI, Spring Boot, Angular  
-**DevOps & MLOps:** DVC, MLflow, GitHub Actions (CI/CD), Docker, Kubernetes, Apache Airflow
+**DevOps & MLOps:** DVC, MLflow, GitHub Actions (CI/CD), Docker, Kubernetes, Apache Airflow   
 **Cloud Platforms:** AWS (EC2, S3, Lambda, SageMaker)  
 **Databases:** PostgreSQL, MongoDB, FAISS, Pinecone, ChromaDB
 
