@@ -81,16 +81,15 @@
 
 ## 📜 Certifications
 
-- Generative AI Certificate
-- Large Language Model Certificate
-- Certified ScrumMaster
-
+- [Generative AI Certificate](<https://www.cloudskillsboost.google/public_profiles/b6a9bddf-6622-4ec2-8c10-6a739e043499/badges/15006444>)  
+- [Large Language Model Certificate](<https://www.cloudskillsboost.google/public_profiles/b6a9bddf-6622-4ec2-8c10-6a739e043499/badges/14976565>)  
+- [Certified ScrumMaster](<https://certification.scrumalliance.org/accounts/1645206-md-moshiur-rahman/certifications/1946115-csm>)  
 ---
 
 ## 🤝 Open to
 
-- AI/ML Research & Engineering Internships
-- Collaborations in LLMs, RAG, and Applied NLP
+- AI/ML, NLP and Computer Vision Research & Engineering Internships, Working Student or Full-Time Role 
+- Collaborations in LLMs, RAG, Applied NLP and Computer Vision
 - Open-source contributions in **AI, Cloud, and MLOps**
 
 ---
@@ -101,14 +100,6 @@
 - 💼 LinkedIn: [moshiur00](https://www.linkedin.com/in/moshiur00)
 - 🐙 GitHub: [moshiur00](https://github.com/moshiur00)
 
----
-
-## ⚙️ GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moshiur00&show_icons=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur00&layout=compact&langs_count=8&card_width=320" />
-</p>
 
 ---
 
