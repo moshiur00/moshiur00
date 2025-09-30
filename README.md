@@ -10,18 +10,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 MSc Artificial Intelligence student @ Brandenburgische Technische Universität Cottbus-Senftenberg (**October, 2026 (Expected)**)
-- 💼 Former Software Engineer with 4+ years of experience @ Millennium Information Solution Ltd
-- 🛠️ Experienced in building Enterprise Software Solutions using Spring Boot and Angular. Developed applied AI projects in NLP, RAG, AI Agents, LLMs and Computer Vision
-- 🌱 Learning and implementing core concepts of Machine Learning, Deep Learning, Generative AI and Computer Vision.
-- 💬 Ask me about **Python, AI/ML, NLP, Computer Vision, LLMs, MLOps, Cloud (AWS, Kubernetes)**
-- 🎯 2025 goals: _Land an AI internship/research role and contribute to open-source LLM projects_
+- MSc Artificial Intelligence student @ Brandenburgische Technische Universität Cottbus-Senftenberg (**October, 2026 (Expected)**)
+- Former Software Engineer with 4+ years of experience @ Millennium Information Solution Ltd
+- Experienced in building Enterprise Software Solutions using Spring Boot and Angular. Developed applied AI projects in NLP, RAG, AI Agents, LLMs and Computer Vision
+- Learning and implementing core concepts of Machine Learning, Deep Learning, Generative AI and Computer Vision.
+- Ask me about **Python, AI/ML, NLP, Computer Vision, LLMs, MLOps, Cloud (AWS, Kubernetes)**
+- 2025 goals: _Land an AI internship/research role and contribute to open-source LLM projects_
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages:** Python, Java, TypeScript, PL/SQL  
 **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, Scikit-learn, LangChain, FastAPI, Spring Boot, Angular  
@@ -35,7 +35,7 @@
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 ### [Claim-Polygraph](https://github.com/moshiur00/Claim-Polygraph)
 **Claim-Polygraph extracts and verifies claims from articles, web pages, and YouTube videos using LLM and fact-checking APIs, with a web interface for analysis and review.**  
@@ -72,21 +72,21 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 - **MSc Artificial Intelligence** — Brandenburgische Technische Universität Cottbus-Senftenberg, Germany _(2023 – Present)_
 - **BSc Computer Science and Engineering** — American International University - Bangladesh _(2013 – 2016)_
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - [Generative AI Certificate](<https://www.cloudskillsboost.google/public_profiles/b6a9bddf-6622-4ec2-8c10-6a739e043499/badges/15006444>)  
 - [Large Language Model Certificate](<https://www.cloudskillsboost.google/public_profiles/b6a9bddf-6622-4ec2-8c10-6a739e043499/badges/14976565>)  
 - [Certified ScrumMaster](<https://certification.scrumalliance.org/accounts/1645206-md-moshiur-rahman/certifications/1946115-csm>)  
 ---
 
-## 🤝 Open to
+## Open to
 
 - AI/ML, NLP and Computer Vision Research & Engineering Internships, Working Student or Full-Time Role 
 - Collaborations in LLMs, RAG, Applied NLP and Computer Vision
@@ -94,13 +94,13 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
-- ✉️ Email: **moshiur.mishuk@gmail.com**
-- 💼 LinkedIn: [moshiur00](https://www.linkedin.com/in/moshiur00)
-- 🐙 GitHub: [moshiur00](https://github.com/moshiur00)
+- Email: **moshiur.mishuk@gmail.com**
+- LinkedIn: [moshiur00](https://www.linkedin.com/in/moshiur00)
+- GitHub: [moshiur00](https://github.com/moshiur00)
 
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to connect, collaborate, or just say hi 🚀
+Thanks for visiting my profile! Feel free to connect, collaborate, or just say hi
