@@ -12,7 +12,7 @@
 
 ## About Me
 
-- MSc Artificial Intelligence student @ Brandenburgische Technische Universität Cottbus-Senftenberg (**October, 2026 (Expected)**)
+- MSc Artificial Intelligence student @ Brandenburgische Technische Universität Cottbus-Senftenberg (**October, 2027 (Expected)**)
 - Former Software Engineer with 4+ years of experience @ Millennium Information Solution Ltd
 - Experienced in building Enterprise Software Solutions using Spring Boot and Angular. Developed applied AI projects in NLP, RAG, AI Agents, LLMs and Computer Vision
 - Learning and implementing core concepts of Machine Learning, Deep Learning, Generative AI and Computer Vision.
