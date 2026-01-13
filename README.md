@@ -55,16 +55,16 @@
 - Detects German traffic signs from live video feed, video files and images
 - Multi-object Tracking using ByteTrack (stable IDs across frames).
 
-### [LibreScout](https://github.com/moshiur00/LibreScout)
+### [LibreScout](https://github.com/moshiurmishuk/LibreScout)
 **An AI agent powered by Retrieval-Augmented Generation (RAG) that scans the internet and internal knowledge bases to assist book buyers by providing relevant and accurate information**  
-**Tech Used:** Python, BLIP Model, SerpAPI, LangChain, FAISS, OpenAI GPT-3.5-turbo
+**Tech Used:** Python, React, BLIP Model, SerpAPI, LangChain, FAISS, OpenAI GPT-3.5-turbo
 
 - Automates retrieval & reasoning for book-related queries
 - Seamless integration with multiple knowledge sources
 
-### [DoctorsMind](https://github.com/moshiur00/DoctorsMind)
+### [DoctorsMind](https://github.com/moshiurmishuk/DoctorsMind)
 **Doctor's Mind - a chatbot empowering doctors with intelligent decision-making assistance.**  
-**Tech Used:** Python, LangChain, Hugging Face, Streamlit, Pinecone Vector DB, Mistral-7B-Instruct
+**Tech Used:** Python, React, LangChain, Hugging Face, Pinecone Vector DB, Mistral-7B-Instruct
 
 - Provides intelligent query handling for medical knowledge
 - Built with retrieval-augmented generation for accuracy
