@@ -24,7 +24,7 @@
 ## Tech Stack
 
 **Languages:** Python, Java, TypeScript, PL/SQL  
-**Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, Scikit-learn, LangChain, FastAPI, Spring Boot, Angular  
+**Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, Scikit-learn, LangChain, LangGraph, FastAPI, Spring Boot, Angular  
 **DevOps & MLOps:** Docker, Kubernetes, DVC, MLflow, GitHub Actions (CI/CD), Apache Airflow   
 **Cloud Platforms:** AWS (EC2, S3, Lambda, SageMaker)  
 **Databases:** PostgreSQL, MongoDB, FAISS, Pinecone, ChromaDB
